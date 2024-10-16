@@ -1,1 +1,1 @@
-# Tanstack Query Project.
+# Eadevs Events
