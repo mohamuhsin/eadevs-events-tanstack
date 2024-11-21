@@ -91,7 +91,7 @@ export default function EventDetails() {
                 {formattedDate} @ {data.time}
               </time>
             </div>
-            <p id="event-details-description">{data.desription}</p>
+            <p id="event-details-description">{data.description}</p>
           </div>
         </div>
       </>
