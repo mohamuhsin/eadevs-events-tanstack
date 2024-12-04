@@ -41,13 +41,13 @@ ul {
   gap: 1.5rem;
 }
 
-#header-title img {
+/* #header-title img {
   width: 4rem;
   height: 4rem;
   border-radius: 50%;
   object-fit: cover;
   filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.26));
-}
+} */
 
 #header-title h1 {
   font-size: 1.5rem;
@@ -59,10 +59,10 @@ ul {
   text-decoration: none;
 }
 
-#main-header nav {
+/* #main-header nav {
   display: flex;
   gap: 1rem;
-}
+} */
 
 #overview-section {
   margin: -8rem 0 3rem 0;

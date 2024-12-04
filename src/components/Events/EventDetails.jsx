@@ -109,7 +109,7 @@ export default function EventDetails() {
           </p>
           <div className="form-actions">
             {isPendingDeletion && <p>Deleting, please wait...</p>}
-            {isPendingDeletion && (
+            {!isPendingDeletion && (
               <>
                 <button onClick={handleStopDelete} className="button-text">
                   Cancel
